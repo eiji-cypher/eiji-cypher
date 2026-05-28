@@ -16,13 +16,13 @@ $ cat /etc/eiji.conf
 
   Handle   : eiji-cypher
   Role     : Backend Developer & Game Dev Hobbyist
-  Location : Davao, Philippines 🇵🇭
+  Location : Dipolog, Philippines 🇵🇭
   Stack    : Python · Flask · JS · Three.js · C# · TypeScript
   Status   : Always shipping something 🚀
   Coffee   : [████████████] 100%
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Backend+Dev+who+builds+3D+browser+games+🎮;Flask+%2B+Python+%2B+CSV+%3D+Zero+DB+needed+🗄️;Three.js+wizard+crafting+Filipino-themed+worlds+🌏;Collaborator+%40+SyncStock+%26+DMC-Reserve;Kain+na%2C+Boss!+🍲)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=nyati+na,+mag+code+na+ta+uy!+%F0%9F%8E%AE;Flask+%2B+Python+%2B+CSV+%3D+Zero+DB+needed+%F0%9F%97%84%EF%B8%8F;Three.js+wizard+crafting+Filipino-themed+worlds+%F0%9F%8C%8F;Collaborator+%40+SyncStock+%26+DMC-Reserve;Kain+na%2C+Boss!+%F0%9F%8D%B2)](https://git.io/typing-svg)
 
 </div>
 
