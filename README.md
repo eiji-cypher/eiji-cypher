@@ -150,11 +150,9 @@ $ cat /etc/eiji.conf
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eiji-cypher&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eiji-cypher&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&text_color=ffffff&border_color=00FF41)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=eiji-cypher&theme=terminal&background=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=ff6b35&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eiji-cypher&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eiji-cypher&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eiji-cypher&theme=chartreuse_dark)
 
 </div>
 
